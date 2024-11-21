@@ -15,3 +15,6 @@ See `.env` and add API to get started.
   streamlit run Homepage.py
 ```
 
+You will find entire demo about this project.
+
+If you want to run test, click  `demo` on the left sidebar.
